@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+src/bin/
+src/obj/
+
+#.vs
+src/.vs/
